@@ -1,43 +1,43 @@
 var cats = [
   {
     name: "Cat1",
-    pic: "../cat1.jpg"
+    pic: "pics/cat1.jpg"
   },
   {
     name: "Cat2",
-    pic: "../cat2.jpg"
+    pic: "pics/cat2.jpg"
   },
   {
     name: "Cat3",
-    pic: "../cat3.jpg"
+    pic: "pics/cat3.jpg"
   },
   {
     name: "Cat4",
-    pic: "../cat4.jpg"
+    pic: "pics/cat4.jpg"
   },
   {
     name: "Cat5",
-    pic: "../cat5.jpg"
+    pic: "pics/cat5.jpg"
   },
   {
     name: "Cat6",
-    pic: "../cat6.jpg"
+    pic: "pics/cat6.jpg"
   },
   {
     name: "Cat7",
-    pic: "../cat7.jpg"
+    pic: "pics/cat7.jpg"
   },
   {
     name: "Cat8",
-    pic: "../cat8.jpg"
+    pic: "pics/cat8.jpg"
   },
   {
     name: "Cat9",
-    pic: "../cat9.jpg"
+    pic: "pics/cat9.jpg"
   },
   {
     name: "Cat10",
-    pic: "../cat10.jpg"
+    pic: "pics/cat10.jpg"
   }
 ];
 
